@@ -4,7 +4,7 @@
   "description": "Perform computations using the GAP computer algebra system",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,6 @@
     "url": "https://github.com/UTMQ/node-gap-system/issues"
   },
   "dependencies": {
-    "compute-cluster": "git://github.com/vladikoff/node-compute-cluster"
   },
   "devDependencies": {
     "tape": "~2.3.0"
