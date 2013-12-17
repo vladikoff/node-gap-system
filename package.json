@@ -1,0 +1,24 @@
+{
+  "name": "gap-system",
+  "version": "0.1.0",
+  "description": "Perform computations using the GAP computer algebra system",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UTMQ/node-gap-system.git"
+  },
+  "author": "Vlad Filippov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UTMQ/node-gap-system/issues"
+  },
+  "dependencies": {
+    "compute-cluster": "git://github.com/vladikoff/node-compute-cluster"
+  },
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
