@@ -1,6 +1,6 @@
 {
   "name": "gap-system",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Perform computations using the GAP computer algebra system",
   "main": "index.js",
   "scripts": {

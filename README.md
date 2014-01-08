@@ -13,7 +13,6 @@ Perform computations using the [GAP](http://www.gap-system.org/) computer algebr
 gap> LoadPackage("openmath");
 gap> SaveWorkspace("workspace");
 true
-gap>
 ```
 
 ## Usage
